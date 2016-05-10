@@ -6,31 +6,76 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Partially Derivative
+email: hello@partiallyderivative.com
+description: The data of the world around us.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://partiallyderviative.com" # the base hostname & protocol for your site
+twitter_username: PartiallyDerivative
+github_username:  PartiallyDerivative
 
 # Build settings
 markdown: kramdown
 
 # Podcast settings
-podcast_url: http://www.joebuhlig.com/whaddyaknowjoe
-podcast_album_art: /assets/base/Whaddya-Know-Joe-Album-Art.png
-podcast_title: Whaddya Know Joe?
-podcast_owner: Joe Buhlig
-podcast_email: email@example.com
+podcast_url: http://www.partiallyderivative.com
+podcast_album_art: /assets/logos/cover170x170.jpeg
+podcast_title: Partially Derivative
+podcast_owner: Partially Derivative
+podcast_email: hello@partiallyderivative.com
 podcast_category: Technology
-podcast_subcategory_one: Software How-To
-podcast_subcategory_two: Gadgets
-podcast_explicit: "no"
-podcast_author: Joe Buhlig
-podcast_description: Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.
-podcast_summary: Joe Buhlig walks you through real life story and then breaks down the productivity tools and techniques used. It's a great way to learn how to implement the tips and tricks that you see across the web. Productivity stories from the trenches. What works and what to never try.
-podcast_subtitle: Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.
+podcast_subcategory_one: IT News
+podcast_subcategory_two: Software How-To
+podcast_explicit: "yes"
+podcast_author: Vidya Spandana, Jonathon Morgan, and Chris Albon
+podcast_description: The data of the world around us, hosted by data science super geeks. For the nerdy and nerd curious.
+podcast_summary: Partially Derivative is a weekly podcast from the founders of Popily. We geek out about silly data stories, interview fun people doing interesting work, and drink beer.
+podcast_subtitle: A podcast about the data of everything.
+
+owner: Your Name # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
+social:
+  twitter: https://twitter.com/<username>
+  github: https://github.com/<username>
+  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
