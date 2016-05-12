@@ -1,21 +1,46 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Partially Derivative
-email: hello@partiallyderivative.com
-description: The data of the world around us.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://partiallyderviative.com" # the base hostname & protocol for your site
-twitter_username: PartiallyDerivative
-github_username:  PartiallyDerivative
+description: The data of the world around us
+baseurl: # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Lorem Ipsum
+user_description: Anon Developer at Lorem Ipsum Dolor
+user_title: Partially Derivative
+email: anon@anon.com
+twitter_username: lorem_ipsum
+github_username:  lorem_ipsum
+gplus_username:  lorem_ipsum
+disqus_username: lorem_ipsum
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: podcast
+    url: /podcast
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
 
 # Podcast settings
 podcast_url: http://www.partiallyderivative.com
@@ -31,51 +56,3 @@ podcast_author: Vidya Spandana, Jonathon Morgan, and Chris Albon
 podcast_description: The data of the world around us, hosted by data science super geeks. For the nerdy and nerd curious.
 podcast_summary: Partially Derivative is a weekly podcast from the founders of Popily. We geek out about silly data stories, interview fun people doing interesting work, and drink beer.
 podcast_subtitle: A podcast about the data of everything.
-
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
-
-# Build settings
-markdown: kramdown
-#sass:
-#  style: compressed
