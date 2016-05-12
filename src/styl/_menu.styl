@@ -21,14 +21,14 @@ a.slideButton, .dosearch
     left 10px
 .dosearch
     right 10px
-    background darken(main,10%)
+    background rgba(0,0,0,0.8)
     border-radius rem(3px)
     padding rem(2px) rem(3px)
 .icon-menu
     cursor pointer
     padding rem(5px)
     border-radius rem(3px)
-    background darken(main,10%)
+    background rgba(0,0,0,0.8)
     width rem(40px)
     height rem(40px)
     fill sec
@@ -46,10 +46,10 @@ aside
     position fixed
     height 100%
     width rem(240px)
-    padding rem(40px) 0 0
+    padding rem(20px) 0 0
     top 0
     left rem(-240px)
-    background #111
+    background rgba(0,0,0,0.8)
     z-index 20
     box-shadow inset -10px -1px 15px -9px rgba(0,0,0,0.5)
     h2
@@ -57,7 +57,12 @@ aside
         margin 0 0 rem(10px)
         mainFont(800)
         font-size rem(20px)
-        color sec
+    h3
+        margin 0 0 rem(10px)
+        mainFont(800)
+        font-size rem(20px)
+        color lightgray
+        padding rem(0 0 0 20px )
     nav
         ul
             padding 0
@@ -67,11 +72,10 @@ aside
             a
                 width 100%
                 display block
-                padding rem(20px)
+                padding rem(5px 5px 5px 25px )
                 text-decoration none
                 mainFont(300)
                 color #b3b3b1
-                border-top 1px solid darken(lightGray,50%)
                 &:hover
                     color #191918
                     background sec
@@ -97,4 +101,4 @@ a.slideButton.slide
     &.slide
         pointer-events auto
         left 240px
-        background rgba(0,0,0,.6)
+        background rgba(0,0,0,.2)

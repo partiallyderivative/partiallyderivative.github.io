@@ -2,22 +2,21 @@
 title: Partially Derivative
 description: The data of the world around us
 baseurl: # the subpath of your site, e.g. /blog
-url:  # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url:  # the base hostname & protocol for your site e.g. http://partiallyderivative.com
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
+username: Partially Derivative
+user_description: The data of the world around us.
 user_title: Partially Derivative
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+email: hello@partiallyderivative.com
+twitter_username: partiallyd
+github_username:  partiallyderivative
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
+mathjax: true
 
 
 # html minify
@@ -29,22 +28,38 @@ compress_html:
 
 # Links to include in menu navigation
 # For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: podcast
+
+links_podcast:
+  - title: Podcast
     url: /podcast
-  - title: Tags
-    url: /tags
-  - title: About Me
-    url: /about
+  - title: Podcast Feed
+    url: /podcast.xml
+
+links_top:
+    - title: Home
+      url: /
+    - title: Sponsors
+      url: /sponsors
+
+links_blog:
+  - title: Blog
+    url: /blog
+  - title: Blog Feed
+    url: /blog.xml
+
+
+links_dataloveletters:
+  - title: Read Past Issues
+    url: /loveletters
+  - title: Subscribe
+    url: /subscribe
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
 
 # Podcast settings
 podcast_url: http://www.partiallyderivative.com
-podcast_album_art: /assets/logos/cover170x170.jpeg
+podcast_album_art: /assets/img/partiallyd_title.png
 podcast_title: Partially Derivative
 podcast_owner: Partially Derivative
 podcast_email: hello@partiallyderivative.com
@@ -56,3 +71,22 @@ podcast_author: Vidya Spandana, Jonathon Morgan, and Chris Albon
 podcast_description: The data of the world around us, hosted by data science super geeks. For the nerdy and nerd curious.
 podcast_summary: Partially Derivative is a weekly podcast from the founders of Popily. We geek out about silly data stories, interview fun people doing interesting work, and drink beer.
 podcast_subtitle: A podcast about the data of everything.
+
+
+authors:
+  chrisalbon:
+    name: Chris Albon
+    display_name: Chris Albon
+    bio: Chris is a political scientist and data scientist.
+    email: hanzou@company.com
+    web: http://chrisalbon.com
+    twitter: chrisalbon
+    github: chrisalbon
+  partiallyderivative:
+    name: partiallyderivative
+    display_name: Partially Derivative
+    bio: Partially Derivative is a podcast about data science hosted by Chris Albon, Jonathon Morgan, and Vidya Spandana.
+    email: hello@partiallyderivative.com
+    web: http://partiallyderivative.com
+    twitter: partiallyd
+    github: partyiallyderivative

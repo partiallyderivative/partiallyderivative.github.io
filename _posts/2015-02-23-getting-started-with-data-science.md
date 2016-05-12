@@ -1,5 +1,6 @@
 ---
 layout: post
+author: partiallyderivative
 title: "Getting Started with Data Science"
 date: 2015-02-23 14:06:00
 categories: blog

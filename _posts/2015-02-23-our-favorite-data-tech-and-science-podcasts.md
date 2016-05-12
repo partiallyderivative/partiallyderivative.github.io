@@ -1,5 +1,6 @@
 ---
 layout: post
+author: partiallyderivative
 title: "Our Favorite Data, Tech and Science Podcasts"
 date: 2015-02-23 14:06:00
 categories: blog

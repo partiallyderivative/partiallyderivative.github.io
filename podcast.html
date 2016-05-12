@@ -1,0 +1,15 @@
+---
+layout: minimal
+title: "Episodes"
+permalink: /podcast
+description: "\"Data are just summaries of thousands of stories – tell a few of those stories to help make the data meaningful.\" — Dan Heath"
+---
+<ul class="post-list">
+{% for post in site.categories.podcast %}
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+{% endfor %}
+</ul>
+
+{% for category in site.categories.podcast %}
+
+{% endfor %}

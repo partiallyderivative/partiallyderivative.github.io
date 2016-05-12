@@ -13,12 +13,29 @@
 </a>
 <aside id="sidebar">
 <nav id="navigation">
-  <h2>MENU</h2>
+  <h2>NAVIGATION</h2>
   <ul>
-    {% for link in site.links %}
+    {% for link in site.links_top %}
       <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
     {% endfor %}
-    <li><a class="feed" href="{{ site.url }}/feed.xml" title="Atom/RSS feed">Feed</a></li>
+  </ul>
+  <h3>Podcast</h3>
+  <ul>
+    {% for link in site.links_podcast %}
+      <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
+    {% endfor %}
+  </ul>
+  <h3>Blog</h3>
+  <ul>
+    {% for link in site.links_blog %}
+      <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
+    {% endfor %}
+  </ul>
+  <h3>Newsletter</h3>
+  <ul>
+    {% for link in site.links_dataloveletters %}
+      <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
+    {% endfor %}
   </ul>
 </nav>
 </aside>
