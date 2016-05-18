@@ -38,6 +38,8 @@ links_podcast:
 links_top:
     - title: Home
       url: /
+    - title: About
+      url: /about
     - title: Sponsors
       url: /sponsors
 
@@ -51,8 +53,6 @@ links_blog:
 links_dataloveletters:
   - title: Read Past Issues
     url: /loveletters
-  - title: Subscribe
-    url: /subscribe
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
