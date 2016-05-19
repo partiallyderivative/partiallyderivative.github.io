@@ -4,9 +4,10 @@ body
 
 
 $bg-home
-	background main
 	height 100%
-	background-image: url('/assets/img/sky-bg.jpg');
+	background main
+	background-image: url('/assets/img/space-bg2.jpg');
+	background-size cover
 	.content
 		width 95%
 		align(both)
@@ -14,7 +15,8 @@ $bg-home
 
 $bg-post
 	background main
-	background-image: url('/assets/img/sky-bg.jpg');
+	background-image: url('/assets/img/space-bg.jpg');
+	background-size cover
 	height 100%
 	.content
 		width 95%
@@ -30,6 +32,7 @@ $bg-post
 	.site-title
 		font-size rem(60px)
 		line-height 1
+		text-shadow: 1px 1px 12px rgba(0, 0, 0, .8);
 		margin-top -80px
 		display block
 		+above(cut)
@@ -37,6 +40,7 @@ $bg-post
 			font-size rem(100px)
 	.site-description
 		font-size rem(20px)
+		text-shadow: 1px 1px 12px rgba(0, 0, 0, .8);
 		display block
 		margin rem(30px) 0
 		+above(cut)

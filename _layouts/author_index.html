@@ -1,0 +1,30 @@
+---
+layout: minimal
+---
+
+{% assign author = site.authors[page.author] %}
+{% assign page.title = site.authors[page.author] %}
+
+<center><img itemprop="image" class="img-rounded" src="/assets/img/{{author.photo}}" alt="{{site.name}}"></center>
+
+<section class="author" itemprop="author">
+    <div class="details" itemscope itemtype="http://schema.org/Person">
+        <h3 class="name">
+            <a itemprop="name" href="https://plus.google.com/+{{site.gplus_username}}/posts"> {{ author.display_name }}</a>
+        </h3>
+        <p class="desc">{{author.bio}} <a href="http://twitter.com/{{author.twitter}}">@{{author.twitter}}</a></p>
+
+    </div>
+</section>
+
+
+{% assign index = true %}
+<ul class="post-list">
+{{ post.title }}
+	{% for post in site.posts %}
+	  {% if post.author contains page.author %}
+	  <ul class="post-list">
+              <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+	  {% endif %}
+    </ul>
+{% endfor %}

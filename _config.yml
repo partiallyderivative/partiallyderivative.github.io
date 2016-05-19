@@ -77,11 +77,12 @@ authors:
   chrisalbon:
     name: Chris Albon
     display_name: Chris Albon
-    bio: Chris is a political scientist and data scientist.
-    email: hanzou@company.com
+    bio: Chris is a political scientist, data scientist, and co-host of Partially Derivative.
+    email: chris@popily.com
     web: http://chrisalbon.com
     twitter: chrisalbon
     github: chrisalbon
+    photo: chris_cartoon.png
   partiallyderivative:
     name: partiallyderivative
     display_name: Partially Derivative
@@ -90,3 +91,4 @@ authors:
     web: http://partiallyderivative.com
     twitter: partiallyd
     github: partyiallyderivative
+    photo: pd_heart_logo_200x200.png
