@@ -83,7 +83,7 @@ authors:
     web: http://chrisalbon.com
     twitter: chrisalbon
     github: chrisalbon
-    photo: chris_cartoon.png
+    photo: /authors/chris_cartoon.png
   partiallyderivative:
     name: partiallyderivative
     display_name: Partially Derivative

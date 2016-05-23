@@ -5,9 +5,11 @@ permalink: /loveletters
 description: "\"Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.\" — Josh Wills"
 ---
 <ul class="post-list">
+
 {% for post in site.categories.dataloveletters %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
 {% endfor %}
+<li><a href="http://us10.campaign-archive1.com/home/?u=46ba26f60b6fb9ff0ec750534&id=4e5e2d3b39"><strong>Older Data Love Letters</strong><span class="entry-date">--</span></a></li>
 </ul>
 
 {% for category in site.categories.podcast %}
