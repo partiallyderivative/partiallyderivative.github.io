@@ -21,7 +21,7 @@ function runNetworkAnim() {
     var ctx = canvas.getContext("2d");
 
     var MAIN_COLOR = "#ffffff",
-        SEC_COLOR = "#c2a330";
+        SEC_COLOR = "#fca91e";
 
     var TAU = 2 * Math.PI;
 

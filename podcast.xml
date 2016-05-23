@@ -45,16 +45,21 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
   <item>
     <title>{{ ep.title }}</title>
     <link>{{ site.url }}{{ ep.url }}</link>
-    <comments>{{ site.url }}{{ ep.url }}#comments</comments>
+    <!--<comments>{{ site.url }}{{ ep.url }}#comments</comments>-->
     <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
-    <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
+    <dc:creator>{{ site.podcast_creator }}></dc:creator>
 {% for category in ep.categories %}
     <category><![CDATA[{{ category | cdata_escape }}]]></category>
 {% endfor %}
 {% for category in ep.tags %}
     <category><![CDATA[{{ category | cdata_escape }}]]></category>
 {% endfor %}
-    <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.url }}{% if ep.podcast_guid %}/{{ ep.podcast_guid }}{% else %}{{ ep.url }}{% endif %}</guid>
+    <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">
+        {% if ep.podcast_guid %}
+            {{ ep.podcast_guid }}
+        {% else %}
+            {{ site.url }}{{ ep.url }}
+        {% endif %}</guid>
     <description>
         <![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
     </description>
@@ -63,12 +68,19 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </content:encoded>
 
     <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
-    <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
-    <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
+    <itunes:subtitle>
+        {% if ep.subtitle %}
+            {{ ep.subtitle }}
+        {% else %}
+            {{ ep.itunes_summary | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}
+        {% endif %}
+    </itunes:subtitle>
+    <itunes:summary>{{ ep.itunes_summary }}</itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
-    <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
-    <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
+    <itunes:explicit>{{ ep.itunes_explicit }}</itunes:explicit>
+    <itunes:duration>{{ ep.itunes_duration }}</itunes:duration>
+    <itunes:keywords>{{ ep.itunes_keywords }}</itunes:keywords>
   </item>
 {% endfor %}
 </channel>

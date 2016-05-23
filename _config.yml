@@ -2,7 +2,7 @@
 title: Partially Derivative
 description: The data of the world around us
 baseurl: # the subpath of your site, e.g. /blog
-url:  # the base hostname & protocol for your site e.g. http://partiallyderivative.com
+url: http://partiallyderivative.com # the base hostname & protocol for your site e.g.
 
 # User settings
 username: Partially Derivative
@@ -62,12 +62,13 @@ podcast_url: http://www.partiallyderivative.com
 podcast_album_art: /assets/img/partiallyd_title.png
 podcast_title: Partially Derivative
 podcast_owner: Partially Derivative
-podcast_email: hello@partiallyderivative.com
+podcast_creator: Jonathon Morgan
+podcast_email: jonathonmorgan@gmail.com
 podcast_category: Technology
 podcast_subcategory_one: IT News
 podcast_subcategory_two: Software How-To
 podcast_explicit: "yes"
-podcast_author: Vidya Spandana, Jonathon Morgan, and Chris Albon
+podcast_author: Partially Derivative
 podcast_description: The data of the world around us, hosted by data science super geeks. For the nerdy and nerd curious.
 podcast_summary: Partially Derivative is a weekly podcast from the founders of Popily. We geek out about silly data stories, interview fun people doing interesting work, and drink beer.
 podcast_subtitle: A podcast about the data of everything.
