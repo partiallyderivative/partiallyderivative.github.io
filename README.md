@@ -37,10 +37,6 @@
 - Push to master, Github will do the rest
 
 ## Left to do
-- Write subscribe page
-- set CNAME
-- set base url
-- set user photos
-- Write sponsor page
 - Import data love letters past issues
-- add google analytics
+
+
