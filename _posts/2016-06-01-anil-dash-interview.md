@@ -3,7 +3,7 @@ layout: post
 author: partiallyderivative
 title: "Interview: Anil Dash, Activist and entrepreneur"
 subtitle: 
-date: 2016-05-31 00:00
+date: 2016-06-01 00:00
 categories: podcast
 tags:
 - data science
