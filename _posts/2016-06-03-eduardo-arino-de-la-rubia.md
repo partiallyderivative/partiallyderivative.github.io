@@ -1,7 +1,7 @@
 ---
 layout: post
 author: partiallyderivative
-title: "Interview: Eduardo Ariño de la Rubia, ‎VP of Product & Data Scientist in Residence at Domino Data Lab"
+title: "Interview: Eduardo Ariño de la Rubia, ‎VP of Product at Domino Data Lab"
 subtitle: 
 date: 2016-06-03 00:00
 categories: podcast
