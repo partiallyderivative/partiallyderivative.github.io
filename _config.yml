@@ -91,3 +91,12 @@ authors:
     twitter: partiallyd
     github: partyiallyderivative
     photo: pd_heart_logo_200x200.png
+  elisebreda:
+    name: elisebreda
+    display_name: Elise Breda
+    bio: EliseBreda is the Growth Strategist at Yhat. When she's not doing data sciencey things, you can find her biking or running around NYC. Yhat makes data science applicable for businesses. Yhat’s flagship product, ScienceOps, lets data scientists deploy models in minutes without any manual recoding. Yhat also created Rodeo, an open-source IDE for Python.
+    email: elise@yhathq.com
+    web: http://yhat.com
+    twitter: YhatHQ
+    github:
+    photo: /authors/elise-breda.jpeg
