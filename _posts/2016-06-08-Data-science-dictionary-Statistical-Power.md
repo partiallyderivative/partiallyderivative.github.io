@@ -12,7 +12,7 @@ permalink: /resources/2016/06/08/Data-science-dictionary-Statistical-Power
 ---
 
 # Statistical Power
-## and alpha and beta and central limit theorem.
+## plus alpha, beta, and central limit theorem
 
 Statistical Power is your ability to detect an effect if there is one in a population. Say you’re testing whether the Firebolt is faster than the Nimbus 2001&mdash;which it obviously is, but let’s do this statistically. Statistical Power would be the probability of you rejecting the null (H0: there is no difference in speed) when there really is a difference in broom speed.
 
