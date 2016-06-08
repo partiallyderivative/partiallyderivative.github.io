@@ -11,7 +11,7 @@ tags:
 permalink: /resources/2016/2/17/5-commandments-improving-data-scientist-and-engineer-relations
 ---
 
-# Five Commandments: Improving Data Scientist and Engineer Relations
+# Improving Data Scientist and Engineer Relations
 
 On the surface, data science and engineering sounds like a match made in heaven. Data scientists create novel solutions for business problems while their engineering counterparts build the environments and integrations to take those solutions into the real world. What could go wrong?
 
