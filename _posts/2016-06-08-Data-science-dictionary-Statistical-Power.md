@@ -12,7 +12,7 @@ permalink: /resources/2016/06/08/Data-science-dictionary-Statistical-Power
 ---
 
 # Statistical Power
-## Plus alpha, beta, and central limit theorem
+**Plus alpha, beta, and the central limit theorem.**
 
 Statistical Power is your ability to detect an effect if there is one in a population. Say you’re testing whether the Firebolt is faster than the Nimbus 2001&mdash;which it obviously is, but let’s do this statistically. Statistical Power would be the probability of you rejecting the null (H0: there is no difference in speed) when there really is a difference in broom speed.
 
@@ -40,29 +40,26 @@ Power is pretty important, if you’re going to take the time to run a bunch of 
 
 A few things can effect the overlap of the distributions&mdash;and therefore the power. Let’s go through them:
 
-**Effect Size**: effect size will effect the spacing between the two distributions. If our brooms have a 12 MPH difference it will be easier to detect than a 4 MPH difference but harder to detect than a 34 MPH difference. We can’t control effect size, so I’ll give it 1 out of 5 stars for our ability to use this to change power ★☆☆☆☆<sup>1</sup>
+**Effect Size**: effect size will effect the spacing between the two distributions. If our brooms have a 12 MPH difference it will be easier to detect than a 4 MPH difference but harder to detect than a 34 MPH difference. We can’t control effect size, so I’ll give it 1 out of 5 stars for our ability to use this to change power. ★☆☆☆☆<sup>1</sup>
 
 ![Alt](/assets/img/postimages/es.jpg)
 
-**Alpha**: alpha is the level of comparison for your p&ndash;value. If we had alpha = 0.10 then we would be shifting the line to the left which means that more of the Alternative Distribution would be to the right of the line, increasing power. However we would *also* be increasing our chances of making a Type I error. Fields usually have their own standards for alpha (0.05 is a popular one), so the only real way to change alpha is to switch from a 2&ndash;tailed test to a 1&ndash;tailed test  ★★☆☆☆
-When we do a two&ndash;tailed test, we actually split our alpha into 2, one part for the lower tail and one for the upper tail. If your alpha is 0.05, then the top 2.5% of your distribution and the bottom 2.5% of your distribution will be in the “reject the Null” zone. Not splitting it would mean that all 5% could be on one tail meaning that less extreme values would still be in the rejection region. Anything in the lined but not gridded area below are examples of samples where you would *not* reject the null with a 2&ndash;tailed test, but would with a 1&ndash;tailed test. Sometimes this is justified, but people can be skeptical when you use a 1&ndash;tailed test.
+**Alpha**: alpha is the level of comparison for your p&ndash;value. If we had alpha = 0.10 then we would be shifting the line to the left which means that more of the Alternative Distribution would be to the right of the line, increasing power. However we would *also* be increasing our chances of making a Type I error. Fields usually have their own standards for alpha (0.05 is a popular one), so the only real way to change alpha is to switch from a 2&ndash;tailed test to a 1&ndash;tailed test. ★★☆☆☆
+
 
 ![Alt](/assets/img/postimages/alpha.jpg)
 
-> *DEEP DIVE*
-> > When we do a two-tailed test, we actually split our alpha into 2, one part for the lower tail and one for the upper tail. If your alpha is 0.05, then the top 2.5% of your distribution and the bottom 2.5% of your distribution will be in the "reject the Null" zone. Not splitting it would mean that all 5% could be on one tail—meaning that less extreme values would still be in the rejection region. Anything in the lined but not gridded area below are examples of samples where you would not reject the null with a 2-tailed test, but would with a 1-tailed test. Sometimes this is justified, but people can be skeptical when you use a 1-tailed test.
+> *When we do a two-tailed test, we actually split our alpha into 2, one part for the lower tail and one for the upper tail. If your alpha is 0.05, then the top 2.5% of your distribution and the bottom 2.5% of your distribution will be in the "reject the Null" zone. Not splitting it would mean that all 5% could be on one tail—meaning that less extreme values would still be in the rejection region. Anything in the lined but not gridded area below are examples of samples where you would not reject the null with a 2-tailed test, but would with a 1-tailed test. Sometimes this is justified, but people can be skeptical when you use a 1-tailed test.*
 > ![Alt](/assets/img/postimages/tailed.jpg)
 
 **Sample Size**: Ah, sample size. A researcher’s best friend. Increasing your sample size is completely in your control and will squeeze your Null and Alternative Distributions and make them skinnier (think Kardashian waist training). The skinnier they are, the less they will tend to overlap. This is because when you take the mean of larger samples, it’s harder to get extreme values and easier to get average ones; #throwback to the [Central Limit Theorem](https://medium.com/@chelseaparlett/the-central-limit-theorem-clear-statistics-278b80fd6f9f#.uwqqvm66p). ★★★★☆
 
-The math&ndash;y reason is that the error term in a distribution of sample means is the standard error (or pooled standard deviation for differences) which both have n in the denominator of their denominator&mdash;yikes that's a mouthful! Basically the larger n is, the smaller the standard error/pooled standard deviation will be (which squeezes the distributions, remember Central Limit Theorem). The smaller those error terms are, the larger the t value will be, even though the difference between your two groups is the same!
-
 ![Alt](/assets/img/postimages/n.jpg)
 
-> *DEEP DIVE*
-> > The math-y reason is that the error term in a distribution of sample means is the standard error or (pooled standard deviation for differences) which both have n in the denominator of their denominator—yikes that's a mouthful! Basically the larger n is, the smaller the standard error/pooled standard deviation will be (which squeezes the distributions, remember Central Limit Theorem). The smaller those error terms are, the larger the t value will be, even though the difference between your two groups is the same! ![Alt](/assets/img/postimages/t2.gif)
-
-> > ![Alt](/assets/img/postimages/t.gif)
+> *The math-y reason is that the error term in a distribution of sample means is the standard error or (pooled standard deviation for differences) which both have n in the denominator of their denominator—yikes that's a mouthful! Basically the larger n is, the smaller the standard error/pooled standard deviation will be (which squeezes the distributions, remember Central Limit Theorem). The smaller those error terms are, the larger the t value will be, even though the difference between your two groups is the same!*
+> ![Alt](/assets/img/postimages/t2.gif)
+>
+> ![Alt](/assets/img/postimages/t.gif)
 
 So there you have it, statistical power in a nutshell. Go forth and analyze.
 
