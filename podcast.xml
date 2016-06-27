@@ -43,7 +43,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </itunes:category>
 {% for ep in site.categories.podcast %}
   <item>
-    <title>{{ ep.title }}</title>
+    <title>{{ ep.title | xml_escape }}</title>
     <link>{{ site.url }}{{ ep.url }}</link>
     <!--<comments>{{ site.url }}{{ ep.url }}#comments</comments>-->
     <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
@@ -70,12 +70,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
     <itunes:subtitle>
         {% if ep.subtitle %}
-            {{ ep.subtitle }}
+            {{ ep.subtitle | xml_escape }}
         {% else %}
             {{ ep.itunes_summary | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}
         {% endif %}
     </itunes:subtitle>
-    <itunes:summary>{{ ep.itunes_summary }}</itunes:summary>
+    <itunes:summary>{{ ep.itunes_summary | cdata_escape }}</itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ ep.itunes_explicit }}</itunes:explicit>
