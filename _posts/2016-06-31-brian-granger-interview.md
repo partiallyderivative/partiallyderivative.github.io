@@ -3,7 +3,7 @@ layout: post
 author: partiallyderivative
 title: "Interview: Brian Granger, Leader of the Project Jupytr Notebook Team"
 subtitle: 
-date: 2016-06-31 00:00
+date: 2017-07-31 00:00
 categories: podcast
 tags:
 - data science
