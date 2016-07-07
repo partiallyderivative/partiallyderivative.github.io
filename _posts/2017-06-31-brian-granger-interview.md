@@ -10,7 +10,7 @@ tags:
 - data visualization
 - data
 - technology
-permalink: /podcast/2016/06/29/brian-granger-interview
+permalink: /podcast/2017/06/29/brian-granger-interview
 podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Anil_Dash.mp3
 podcast_length: 1441000
 itunes_duration: '00:31:41'
