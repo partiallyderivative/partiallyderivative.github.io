@@ -58,7 +58,7 @@ However, frequentist tests tell us the probability of getting our data, given th
 
 ![alt text](/assets/img/postimages/pDataHo.jpg)
 
-You can see that these two are not the same thing, but we treat P(data|H<sub>0</sub>) as a proxy for P(H<sub>0</sub>|data), which contributes both to the confusion and to misstatements about what a significant p-value means. If p-values aren’t taught clearly, this distinction get’s confusing, but it's more clear in examples like the difference between the probability of being a child given that you’re at Chuck-E-Cheese, and the probability that you’re at Chuck-E-Cheese given that you’re a child.
+You can see that these two are not the same thing, but we treat P(data&#124;H<sub>0</sub>) as a proxy for P(H<sub>0</sub>&#124;data), which contributes both to the confusion and to misstatements about what a significant p-value means. If p-values aren’t taught clearly, this distinction get’s confusing, but it's more clear in examples like the difference between the probability of being a child given that you’re at Chuck-E-Cheese, and the probability that you’re at Chuck-E-Cheese given that you’re a child.
 
 ## Part
 So what do we do? Do we go the way of some academic journals and scrap p-values? I argue no. The final p is part. P-values are only part of the picture that we need in order to understand our data and what they say about the world around us; they tell us how likely it is that something just happened by chance.
