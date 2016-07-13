@@ -1,7 +1,7 @@
 ---
 layout: post
 author: chelseaparlett
-title: "Data Science Dictionary: PValues"
+title: "Data Science Dictionary: P-Values"
 date: 2016-07-13 13:25:00
 categories: blog
 tags:
