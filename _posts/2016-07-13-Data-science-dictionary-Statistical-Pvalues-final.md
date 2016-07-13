@@ -52,11 +52,11 @@ Maybe it seems simple but there has been a lot of controversy over the p-value l
 
 So why are p-values so perplexing? One reason is that they are not very intuitive. We want statistics to tell us the chance that our hypothesis is correct—or conversely the chance that the null  hypothesis is incorrect—but that’s not what frequentist hypothesis tests tell you.  In probability notation this is
 
-![alt text](/assets/img/postimages/pHoData.jpg "P(Ho|Data)")
+![alt text](/assets/img/postimages/pHoData.jpg)
 
 However, frequentist tests tell us the probability of getting our data, given that the null hypothesis is true:
 
-![alt text](/assets/img/postimages/pDataHo.jpg "P(Data|Ho)")
+![alt text](/assets/img/postimages/pDataHo.jpg)
 
 You can see that these two are not the same thing, but we treat P(data|H<sub>0</sub>) as a proxy for P(H<sub>0</sub>|data), which contributes both to the confusion and to misstatements about what a significant p-value means. If p-values aren’t taught clearly, this distinction get’s confusing, but it's more clear in examples like the difference between the probability of being a child given that you’re at Chuck-E-Cheese, and the probability that you’re at Chuck-E-Cheese given that you’re a child.
 
