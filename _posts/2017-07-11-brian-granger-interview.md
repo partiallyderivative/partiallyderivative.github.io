@@ -1,7 +1,7 @@
 ---
 layout: post
 author: partiallyderivative
-title: "Interview: Brian Granger, Leader of the Project Jupyter Notebook Team"
+title: "Interview: Brian Granger, co-Leader of Project Jupyter"
 subtitle: 
 date: 2016-07-11 00:00
 categories: podcast
@@ -24,7 +24,7 @@ podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/Partially
 
 For more than a decade [Brian Granger](https://github.com/ellisonbg) has been developing some of the most widely-used technologies in data science. He was an early core contributor of the IPython Notebook and now leads the Project Jupyter Notebook team. We talked about the massive adoption of Project Jupyter across academia and in industry, exciting new features on the horizon, and the future of data visualization. 
 
-I'm most familiar with Brian's contributions to IPython and Juptyr, so that's what we focus on during the episode, but it's important to emphasize that Jupyter is not, in any way, a one person
+I'm most familiar with Brian's contributions to IPython and Jupyter, so that's what we focus on during the episode, but it's important to emphasize that Jupyter is not, in any way, a one person
 show. Most importantly, Jupyter has hundreds of contributors from the broader open-source community. Also, a Steering Council of 11 long-time contributors and over 20 full time developers and designers working on the project at Cal Poly, UC Berkeley, Simula Research Lab, University of Southampton, Microsoft, IBM, Bloomberg and Continuum Analytics.  A special mention goes out to Fernando Perez, who started IPython back in 2001 and continues to co-lead Project Jupyter today
 as the project's "BDFL" (Benevolent Dictator for Life). 
 
