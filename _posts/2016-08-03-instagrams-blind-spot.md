@@ -67,11 +67,11 @@ Let's similarly factor population into how we display the city's Instagram prese
 
 ![alt text](/assets/img/postimages/normalized_insta_clean.png "Normalized Instagram Presence Without Borders")
 
-<b>Poof!</b> We've stripped out some of the noise. Now we can see that it's not only Chicago's population density that drives the north-side's dominance of the city's Instagram presence.</div>
+<b>Poof!</b> We've stripped out some of the noise. Now we can see that it's not only Chicago's population density that drives the north-side's dominance of the city's Instagram presence.
 
-<div class="center_text">
-<b>NEXT STEP:</b>
-<p>Let's see what areas are over- and under- represented.</p></div>
+<span class="right_text2">
+**NEXT STEP:**
+Let's see what areas are over- and under- represented.</span>
 
 <br>
 
