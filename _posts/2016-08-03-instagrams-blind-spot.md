@@ -23,7 +23,11 @@ permalink: /resources/2016/08/03/instagrams-blind-spot
 
 [*Image Source*](https://www.flickr.com/photos/delphinequeme/15165914805)
 
-From oracles and prophecies, to fortune-tellers and magic 8 balls, it's been a part of human nature to want to believe that if we ask the right questions of the right source, we can get all the answers. One of the twenty-first century's incarnations of this phenomena is data fundamentalism, or the belief that, given how much data we continuously generate in our waking (and sleeping) hours, we can use it to solve all our problems, [including death](https://www.google.com/url?q=http://www.businessinsider.com/google-is-launching-a-company-that-hopes-to-cure-death-2013-9&sa=D&ust=1468976226082000&usg=AFQjCNGMHVgXTC86x2WjKQdYEkBKX3cQYQ). (That is, as long as we gather enough of it and ask it the right questions). But, there are [hidden biases in big data](https://www.google.com/url?q=https://hbr.org/2013/04/the-hidden-biases-in-big-data&sa=D&ust=1468976226083000&usg=AFQjCNEcVFw5Ryl33Hb5bzpagUvcFzJuoA) and [artificial](https://www.google.com/url?q=http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html&sa=D&ust=1468976226083000&usg=AFQjCNE8E5gWLCV93fJu8rOtaRMUw_7wSw) [intelligence](https://www.google.com/url?q=https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing&sa=D&ust=1468976226084000&usg=AFQjCNEEGbyECXW49ndMkJ6OVVNl3FCERw) rooted in how we collect this data and for what purpose. Really, the danger in this thinking is not that we can't find significant and interesting results from analyzing these massive sets of data. It's that the analyses of data generated from our social media-entrenched, smart device-embedded, app-reliant existences render invisible significant portions of the population. In Chicago, for instance, who is missing from the treasure trove of Instagram data that is touted as [the new frontier](https://www.google.com/url?q=https://news.fastcompany.com/scientists-are-using-your-instagrams-to-understand-cities-4013304&sa=D&ust=1468976226085000&usg=AFQjCNFQcLJywD0QZWLCBteadSZUpDz1jQ) for research into [human behavior in urban cities](https://www.google.com/url?q=http://journals.plos.org/plosone/article?id%3D10.1371%252Fjournal.pone.0158161&sa=D&ust=1468976226085000&usg=AFQjCNFDc9yy0nDPDEHovaJlb9ikeefC5A)? By exploring the racial/ethnic profile of the city, we see that particular populations are omitted and that the potential implications for policy based on this reality is troubling.
+From oracles and prophecies, to fortune-tellers and magic 8 balls, it's been a part of human nature to want to believe that if we ask the right questions of the right source, we can get all the answers. One of the twenty-first century's incarnations of this phenomena is data fundamentalism, or the belief that, given how much data we continuously generate in our waking (and sleeping) hours, we can use it to solve all our problems, [including death](https://www.google.com/url?q=http://www.businessinsider.com/google-is-launching-a-company-that-hopes-to-cure-death-2013-9&sa=D&ust=1468976226082000&usg=AFQjCNGMHVgXTC86x2WjKQdYEkBKX3cQYQ). (That is, as long as we gather enough of it and ask it the right questions).
+
+But, there are [hidden biases in big data](https://www.google.com/url?q=https://hbr.org/2013/04/the-hidden-biases-in-big-data&sa=D&ust=1468976226083000&usg=AFQjCNEcVFw5Ryl33Hb5bzpagUvcFzJuoA) and [artificial](https://www.google.com/url?q=http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html&sa=D&ust=1468976226083000&usg=AFQjCNE8E5gWLCV93fJu8rOtaRMUw_7wSw) [intelligence](https://www.google.com/url?q=https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing&sa=D&ust=1468976226084000&usg=AFQjCNEEGbyECXW49ndMkJ6OVVNl3FCERw) rooted in how we collect this data and for what purpose. Really, the danger in this thinking is not that we can't find significant and interesting results from analyzing these massive sets of data. It's that the analyses of data generated from our social media-entrenched, smart device-embedded, app-reliant existences render invisible significant portions of the population.
+
+In Chicago, for instance, who is missing from the treasure trove of Instagram data that is touted as [the new frontier](https://www.google.com/url?q=https://news.fastcompany.com/scientists-are-using-your-instagrams-to-understand-cities-4013304&sa=D&ust=1468976226085000&usg=AFQjCNFQcLJywD0QZWLCBteadSZUpDz1jQ) for research into [human behavior in urban cities](https://www.google.com/url?q=http://journals.plos.org/plosone/article?id%3D10.1371%252Fjournal.pone.0158161&sa=D&ust=1468976226085000&usg=AFQjCNFDc9yy0nDPDEHovaJlb9ikeefC5A)? By exploring the racial/ethnic profile of the city, we see that particular populations are omitted and that the potential implications for policy based on this reality is troubling.
 
 ### Case in point: Chicago's Instagram Presence
 
@@ -37,7 +41,6 @@ When we map geotagged Instagram activity in Chicago to city blocks as defined by
 
 ![alt text](/assets/img/postimages/raw_pop_count.png "Chicago's Population - Raw Count")
 
-</br>
 
 <span class="right_text">
 **NOPE.** Looking at census population counts, high concentrations of people appear to be distributed throughout the city. Something to note though is that these census blocks are NOT created equal.</span>
@@ -45,39 +48,25 @@ When we map geotagged Instagram activity in Chicago to city blocks as defined by
 <span class="right_text">
 **NEXT STEP:**
 What if we take into account population density? Will that account for the clustering we see in Instagram data?</span>
-<hr
-</br>
-
 
 ![alt text](/assets/img/postimages/pop_density.png "Chicago's Population Density")
 
-</br></br>
 <span class="right_text2">
 **STILL NOPE.** By accounting for area size, we've stripped away some noise from the population patterns. There are clear clusters of highly dense areas. Along the eastern border (i.e., the lake for the non-Chicagoans) there is higher density throughout but especially north of the Loop. There is also a high density patch going due west of the Loop. The rest of the north-side tends to be denser as well, but in looser contingents than lake-side. The northern pattern may mimic Instagram but that western swell sure is a surprise!</span>
 
 <span class="right_text2">
 **NEXT STEP:**
 Let's similarly factor population into how we display the city's Instagram presence.</span>
-<hr>
-</br></br>
 
 
 ### Instagram Activity Normalized for Population
 
 ![alt text](/assets/img/postimages/normalized_insta.png "Chicago's Instagram Presence Normalized for Population")
 
-<br><br>
-
-<div>
-
 ![alt text](/assets/img/postimages/raw_insta_clean.png "Raw Instagram Presence Without Borders")
-
-<br><br>
 
 ![alt text](/assets/img/postimages/normalized_insta_clean.png "Normalized Instagram Presence Without Borders")
 
-</div>
-<div class="center_text">
 <b>Poof!</b> We've stripped out some of the noise. Now we can see that it's not only Chicago's population density that drives the north-side's dominance of the city's Instagram presence.</div>
 
 <div class="center_text">
