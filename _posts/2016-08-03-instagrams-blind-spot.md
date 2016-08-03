@@ -137,3 +137,5 @@ For guidance into weighting representation: [Applied Survey Methods](https://www
 For demystifying the census: Chicago's own Joe Germuska for his [stackoverflow](https://www.google.com/url?q=http://opendata.stackexchange.com/a/953&sa=D&ust=1468976226111000&usg=AFQjCNE6n7YeqOC6rhjfntS_anDi1pqOxQ) &amp; [Github repo](https://www.google.com/url?q=https://github.com/ireapps/census&sa=D&ust=1468976226111000&usg=AFQjCNHtuRo5c9bhhxnqCIRLdVoiGDwfRg)
 
 For inspiration on how to visualize population data: [RacialDotMap](https://www.google.com/url?q=http://www.coopercenter.org/demographics/Racial-Dot-Map%23thedata&sa=D&ust=1468976226112000&usg=AFQjCNGyrDdNPJ4ORcmkk-2NY2t5y1Z0Aw), [RadicalCartography](https://www.google.com/url?q=http://www.radicalcartography.net/index.html?chicagodots&sa=D&ust=1468976226112000&usg=AFQjCNE4vCcnkDDcmktX3-qownZLz_u0PA)
+
+Note: This post originally appeared on [Datascope's blog here.](http://www.datascopeanalytics.com/blog/instagrams-blind-spot/)
