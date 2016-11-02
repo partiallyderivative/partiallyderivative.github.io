@@ -4,6 +4,7 @@ layout: default
 
 <main id="scroll" class="home" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     {% for post in site.posts limit:10 %}
+        {% if post.categories contains 'podcast' %}
         <article role="article" class="post-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                 <a class="datetime" href="{{ post.url | prepend: site.baseurl }}">
                     <meta itemprop="datePublished" content="{{post.date}}">
@@ -27,11 +28,13 @@ layout: default
                     </time>
                 </a>
                 <div class="content">
+
                     <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title" itemprop="name">{{ post.title }}</h2></a>
                     <p class="description">
                         {{ post.content | strip_html | truncatewords:40 }}
                         <!--<a href="{{ post.url | prepend: site.baseurl }}" class="link">Read more about {{post.title}}</a>-->
                     </p>
+
 
                     <!--
                     <div class="tags">
@@ -42,5 +45,6 @@ layout: default
                     -->
                 </div>
         </article>
+        {% endif %}
     {% endfor %}
 </main>

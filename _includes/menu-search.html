@@ -18,15 +18,12 @@
     {% for link in site.links_top %}
       <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
     {% endfor %}
-  </ul>
-  <h3>Podcast</h3>
-  <ul>
     {% for link in site.links_podcast %}
-      <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
+      <li><a href="{{ site.url }}{{ link.url }}">Episodes</a></li>
     {% endfor %}
-      <li><a href="http://feeds.feedburner.com/PartiallyDerivative">Podcast Feed</a>
+      <li><a href="http://feeds.feedburner.com/PartiallyDerivative">Subscribe</a>
   </ul>
-  <h3>Blog</h3>
+  <!--<h3>Blog</h3>
   <ul>
     {% for link in site.links_blog %}
       <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
@@ -37,7 +34,7 @@
     {% for link in site.links_dataloveletters %}
       <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
     {% endfor %}
-  </ul>
+</ul>-->
 </nav>
 </aside>
 <!--<a id="search" class="dosearch">
