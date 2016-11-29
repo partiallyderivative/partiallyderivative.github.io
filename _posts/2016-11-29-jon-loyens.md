@@ -3,7 +3,7 @@ layout: post
 author: partiallyderivative
 title: "Jon Loyens, Chief Product Officer of data.world"
 subtitle: 
-date: 2016-11-29 00:00
+date: 2016-11-28 22:00
 categories: podcast
 tags:
 - data science
