@@ -28,8 +28,10 @@ Second, Chris sits down with [Raghu Ramakrishnan](https://en.wikipedia.org/wiki/
 
 Third, we have an conversation with SQL leader [Tony Petrossian](https://twitter.com/tonypetrossian) on Microsoft's role in the world of SQL and its future with R.
 
-Also, for more conversations with these engineers, check out the [Data Skeptic](http://dataskeptic.com/) podcast.
+If you liked this episodes and want more, be sure to send us feedback! We want to hear from you! Also, for more conversations with these engineers, check out the [Data Skeptic](http://dataskeptic.com/) podcast.
 
-Finally, if you liked this episodes and want more, be sure to send us feedback! We want to hear from you!
+Finally, thanks to this week's sponsor, [Veera](http://getveera.com/), a data synthesis platform that makes working with data easier and more fun. Check out Veera, and go be a data superhero!
+
+![Veera](http://getveera.com/wp-content/uploads/2016/08/veera-500width.png)
 
 [**Download Episode**](https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Microsoft.mp3)
