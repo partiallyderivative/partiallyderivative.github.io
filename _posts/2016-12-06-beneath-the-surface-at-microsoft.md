@@ -22,7 +22,7 @@ podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/Partially
 
 This week Chris flies to New York City and sits down with three engineers at Microsoft to discuss R, SQL, and why data lakes is a silly term.
 
-First we have an interview with [Mike Souza](https://twitter.com/mark_azurecat), General Manager, Data Platforms at Microsoft on his role helping us data scientists get the data into our little grubby hands.
+First we have an interview with [Mark Souza](https://twitter.com/mark_azurecat), General Manager, Data Platforms at Microsoft on his role helping us data scientists get the data into our little grubby hands.
 
 Second, Chris sits down with [Raghu Ramakrishnan](https://en.wikipedia.org/wiki/Raghu_Ramakrishnan), former professor, database luminary, and the man with reported "the coolest job at Microsoft."
 
