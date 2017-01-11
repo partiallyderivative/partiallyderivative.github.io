@@ -1,7 +1,7 @@
 ---
 layout: post
 author: partiallyderivative
-title: "Claudia Perlich: Ad Tech, Watson & Ethics"
+title: "Claudia Perlich: Ad Tech, Watson and Ethics"
 subtitle:
 date: 2017-01-10 00:00
 categories: podcast
