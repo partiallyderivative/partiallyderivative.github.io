@@ -15,7 +15,7 @@ permalink: /podcast/2017/01/10/2017-claudia-perlich
 podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Claudia_Perlich.mp3
 podcast_length: 2767000
 itunes_duration: '00:46:07'
-itunes_summary: Ad tech & ethics!
+itunes_summary: Ad tech and ethics!
 itunes_explicit: 'no'
 itunes_keywords: data,technology,data science,machine learning
 podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Claudia_Perlich.mp3'
