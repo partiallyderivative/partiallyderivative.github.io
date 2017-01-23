@@ -1,7 +1,7 @@
 ---
 layout: post
 author: partiallyderivative
-title: "Our Favorite Data, Tech and Science Podcasts"
+title: "Our Favorite Data, Tech, and Science Podcasts"
 date: 2015-02-23 14:06:00
 categories: blog
 tags:
@@ -41,7 +41,7 @@ When we're not making Partially Derivative episodes, we spend a lot of time list
 
 [Science Friday](http://www.sciencefriday.com/) News and entertaining stories about science.
 
-[Freakonomics](http://freakonomics.com/radio/freakonomics-radio-podcast-archive/) The hidden side of everything.
+[Freakonomics](http://freakonomics.com/archive/) The hidden side of everything.
 
 [StarTalk Radio](http://www.startalkradio.net/) A commercial radio program devoted to all things space, hosted by Neil deGrasse Tyson.
 
