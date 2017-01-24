@@ -14,7 +14,7 @@ permalink: /podcast/2017/01/24/data-day
 podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Data_Day_Texas.mp3
 podcast_length: 3305000
 itunes_duration: '00:54:13'
-itunes_summary: Over-hyped ideas and interviews galore!
+itunes_summary: Overhyped ideas and interviews galore!
 itunes_explicit: 'no'
 itunes_keywords: data,technology,data science,machine learning
 podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Data_Day_Texas.mp3'
@@ -22,7 +22,7 @@ podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/Partially
 
 ![Data Day](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F18885839%2F1820879554%2F1%2Foriginal.jpg?h=150&w=300&rect=0%2C0%2C2160%2C1080&s=6d1d04b250fb15f8507fe179a7558bc2)
 
-We're doing something a little different this episode. A couple weeks ago we camped out at [Data Day Texas](http://datadaytexas.com/), a huge event focused on data science techniques and technologies that's held in lovely Austin, TX. We talked to a bunch of the speakers, chatted with some attendees, and went on a mission to find the most over-hyped idea in data science (hint: it rhymes with steep yearning). 
+We're doing something a little different this episode. A couple weeks ago we camped out at [Data Day Texas](http://datadaytexas.com/), a huge event focused on data science techniques and technologies that's held in lovely Austin, TX. We talked to a bunch of the speakers, chatted with some attendees, and went on a mission to find the most overhyped idea in data science (hint: it rhymes with steep yearning). 
 
 Jonathon was joined by a couple friends of the show, [Ashley McNamara](https://twitter.com/ashleymcnamara), who long-time listeners will remember as a two-time guest host, and [Dave Sullivan](https://www.linkedin.com/in/davesullivan41/), making his on-air debut. As you'll hear throughout the episode, Ashley and Dave are both clearly more intelligent and funnier than Jonathon.
 
