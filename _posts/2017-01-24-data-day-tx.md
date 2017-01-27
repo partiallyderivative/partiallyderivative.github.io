@@ -35,7 +35,7 @@ Jonathon was joined by a couple friends of the show, [Ashley McNamara](https://t
 - [Kamille Nixon](https://medium.com/@kamillenixon), IBM Watson Analytics
 - [Nick Gaylord](https://twitter.com/texastacos), data science at [Crowdflower](https://www.crowdflower.com/)
 - [Randi Ludwig](https://www.linkedin.com/in/randi-r-ludwig-717150114/), data science at [Intersys Consulting](https://www.intersysconsulting.com/)
-- [Jana Thompson](https://www.linkedin.com/in/luxzia/), R&D at Century Labs
+- [Jana Thompson](https://www.linkedin.com/in/luxzia/), R&D at [Accenture Technology Labs](https://www.accenture.com/us-en/accenture-technology-labs-index)
 - [Ashwin Malshé](https://twitter.com/ashwinmalshe), Professor at UT San Antonio
 - [Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige/), data science at Chevron
 - [Robert Welborn](https://twitter.com/robert_welborn), data science at [USAA](https://www.usaa.com/inet/ent_logon/Logon?redirectjsp=true)
