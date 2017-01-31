@@ -773,6 +773,10 @@ html, body {
     margin: 1.875rem 0;
 }
 
+.header-site .site-description a{
+    color: #FFFFF
+}
+
 @media only screen and (min-width:37.5rem) {
     .header-site .site-description {
         font-size: 2rem
