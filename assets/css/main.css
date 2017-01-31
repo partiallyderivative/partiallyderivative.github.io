@@ -776,6 +776,7 @@ html, body {
 #djpatil {
     color: #ffffff;
     border: none;
+    text-decoration: none;
 }
 
 @media only screen and (min-width:37.5rem) {
