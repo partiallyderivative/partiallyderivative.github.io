@@ -3,7 +3,7 @@ layout: post
 author: partiallyderivative
 title: "Frogger Is The New Killer Robot"
 subtitle:
-date: 2017-02-06 21:20
+date: 2017-02-06 00:00
 categories: podcast
 tags:
 - data science
