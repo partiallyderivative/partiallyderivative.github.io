@@ -29,6 +29,6 @@ We started a community for data people who want to find impactful projects and m
 
 **Sponsors!** We'd also of course like to thank this week's sponsors, [Data.World](http://data.world/) and [Periscope Data](https://www.periscopedata.com/pd).
 
-[Data.World](https://data.world/), the social network for data people. Discover and share cool data, connect with interesting people, and work together to solve problems faster at data.world. Here is the dataset on [three centuries of macroeconomic data](https://data.world/ian/3-centuries-of-uk-economy-data).
+[Data.World](https://data.world/), the social network for data people. Discover and share cool data, connect with interesting people, and work together to solve problems faster at data.world. Here is the dataset on [militia pages on Facebook](https://data.world/newknowledge/militia-pages-on-facebook/).
 
 [Periscope Data](https://www.periscopedata.com/pd) lets you go from SQL query to analysis in seconds. [Sign up for a trial](https://www.periscopedata.com/pd) to get an adorably geeky mug!
