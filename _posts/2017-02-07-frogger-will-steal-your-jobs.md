@@ -3,7 +3,7 @@ layout: post
 author: partiallyderivative
 title: "Frogger Is The New Killer Robot"
 subtitle:
-date: 2017-02-07 00:00
+date: 2017-02-06 21:20
 categories: podcast
 tags:
 - data science
@@ -12,8 +12,8 @@ tags:
 - machine learning
 permalink: /podcast/2017/02/07/frogger-will-steal-your-jobs
 podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_frogger_still_steal_your_job.mp3
-podcast_length: 2460000
-itunes_duration: '00:41:32'
+podcast_length: 2940000
+itunes_duration: '00:48:34'
 itunes_summary: The gang is back! This week: Academic smackdowns, frogger AI, and more!
 itunes_explicit: 'no'
 itunes_keywords: data,technology,data science,machine learning
