@@ -12,8 +12,8 @@ tags:
 - machine learning
 permalink: /podcast/2017/02/21/paco-nathan
 podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Paco_Nathan.mp3
-podcast_length: 2040000
-itunes_duration: '00:33:38'
+podcast_length: 3355000
+itunes_duration: '00:55:55'
 itunes_summary: O'Reilly behind the scenes. Data science, learning, and more! 
 itunes_explicit: 'no'
 itunes_keywords: data,technology,data science,machine learning
