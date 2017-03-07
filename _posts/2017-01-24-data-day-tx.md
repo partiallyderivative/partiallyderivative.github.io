@@ -39,7 +39,7 @@ Jonathon was joined by a couple friends of the show, [Ashley McNamara](https://t
 - [Ashwin Malshé](https://twitter.com/ashwinmalshe), Professor at UT San Antonio
 - [Paige Bailey](https://www.linkedin.com/in/dynamicwebpaige/), data science at Chevron
 - [Robert Welborn](https://twitter.com/robert_welborn), data science at [USAA](https://www.usaa.com/inet/ent_logon/Logon?redirectjsp=true)
-- [J D Freeman](http://unizin.org), Principal Data Scientist at [Unizin](unizin.org)
+- [J D Freeman](http://unizin.org), Principal Data Scientist at [Unizin](http://unizin.org)
 - [Andrew Therriault](https://twitter.com/therriaultphd), CDO at the City of Boston
 - [Paul Dix](https://twitter.com/pauldix?lang=en), CEO of [InfluxDB](https://twitter.com/InfluxDB)
 
