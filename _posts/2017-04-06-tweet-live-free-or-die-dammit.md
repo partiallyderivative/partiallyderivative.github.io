@@ -3,14 +3,14 @@ layout: post
 author: partiallyderivative
 title: "Live Free For Die, Dammit!"
 subtitle:
-date: 2017-04-04 00:00
+date: 2017-04-06 00:00
 categories: podcast
 tags:
 - data science
 - data
 - technology
 - machine learning
-permalink: /podcast/2017/04/04/live-free-or-die-dammit
+permalink: /podcast/2017/04/06/live-free-or-die-dammit
 podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_live_free_or_die_dammit.mp3
 podcast_length: 180000
 itunes_duration: '00:29:09'
