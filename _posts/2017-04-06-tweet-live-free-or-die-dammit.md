@@ -1,7 +1,7 @@
 ---
 layout: post
 author: partiallyderivative
-title: "Live Free For Die, Dammit!"
+title: "Live Free Or Die, Dammit!"
 subtitle:
 date: 2017-04-06 00:00
 categories: podcast
