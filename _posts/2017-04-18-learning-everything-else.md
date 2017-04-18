@@ -10,7 +10,7 @@ tags:
 - data
 - technology
 - machine learning
-permalink: /podcast/2017/04/18/invisible-data-science
+permalink: /podcast/2017/04/18/learning-everything-else
 podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_learning_everything_else.mp3
 podcast_length: 2040000
 itunes_duration: '00:31:55'
