@@ -22,6 +22,8 @@ podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/partially
 
 This week Chris talks about whether you should get a PhD and talks about his own experience in a Ph.D. program.
 
+Music credit for this week's podcast: Chris_Zabriskie's The Temperature of the Air on the Bow of the Kaleetan
+
 [**Download the episode**](https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_should_you_get_a_phd.mp3)
 
 **Make a Difference**
