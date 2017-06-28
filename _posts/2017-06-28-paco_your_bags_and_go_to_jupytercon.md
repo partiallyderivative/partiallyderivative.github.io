@@ -24,7 +24,7 @@ In this special sponsored episode, Chris talks with Paco Nathan about JupyterCon
 
 **Partially Derivative JupyterCon Coupon Code**
 
-Sign up with the code **PDPODCAST** and get 20% percent off most tickets.
+Sign up with the code **PDPODCAST** and get 20% off most tickets.
 
 [**Download the episode**](	https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_paco_your_bags_and_go_to_jupytercon.mp3)
 
