@@ -20,7 +20,7 @@ itunes_keywords: data,technology,data science,machine learning
 podcast_guid: '	https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_limits_of_deep_learning.mp3'
 ---
 
-This week Chris and Vidya the limits of deep learning and how to each mathematics.
+This week Chris and Vidya discuss the limits of deep learning and how to each mathematics.
 
 [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html
 )
