@@ -11,19 +11,18 @@ tags:
 - technology
 - machine learning
 permalink: /podcast/2017/07/18/the_limits_of_deep_learning
-podcast_link: 		https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_limits_of_deep_learning.mp3
+podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_limits_of_deep_learning.mp3
 podcast_length: 3420000
 itunes_duration: '00:56:56'
-itunes_summary: This week Chris and Vidya the limits of deep learning and how to each mathematics.
+itunes_summary: This week Chris and Vidya discuss the limits of deep learning and how to each mathematics.
 itunes_explicit: 'yes'
 itunes_keywords: data,technology,data science,machine learning
-podcast_guid: '	https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_limits_of_deep_learning.mp3'
+podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_limits_of_deep_learning.mp3'
 ---
 
 This week Chris and Vidya discuss the limits of deep learning and how to each mathematics.
 
-[The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html
-)
+[The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 
 [AI is making it extremely easy for students to cheat](https://www.wired.com/story/ai-is-making-it-extremely-easy-for-students-to-cheat/)
 
