@@ -12,25 +12,25 @@ tags:
 - machine learning
 - chat bot
 permalink: /podcast/2017/01/31/josh-browder
-podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Josh_Browder.mp3
+podcast_link: https://backtracks.fm/partiallyderivative/pr/ded17d7e-844a-11e7-86c7-0e84392478bc/partially_derivative_josh_browder.mp3?s=1
 podcast_length: 1767000
 itunes_duration: '00:29:27'
 itunes_summary: AI to escape parking tickets!
 itunes_explicit: 'no'
 itunes_keywords: data,technology,data science,machine learning
-podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Josh_Browder.mp3'
+podcast_guid: 'https://backtracks.fm/partiallyderivative/pr/ded17d7e-844a-11e7-86c7-0e84392478bc/partially_derivative_josh_browder.mp3?s=1'
 ---
 
 ![Josh Browder](https://pbs.twimg.com/profile_images/822022342343700480/axNCFELp_400x400.jpg)
 
-We talked with [Joshua Browder](https://twitter.com/jbrowder1), the inventor of [DoNotPay](http://www.donotpay.co.uk/signup.php), an AI laywer that's helped people get out of $5 million worth of wrongly-issued parking tickets. Josh has also applied his natural language technology to [helping UK citizens in need of housing](http://www.businessinsider.com/chatbot-helps-homeless-josh-browder-2016-8?r=UK&IR=T) apply for help from the UK government, and [developed iPhone apps](https://freedomhouse.org/article/freedom-your-fingertips-freedom-house-releases-iphone-app) for human rights groups like Freedom House. Just recently Josh became the youngest member of the [Forbes 30 Under 30 list](http://www.forbes.com/sites/alexandrawilson1/2017/01/15/30-under-30-europe-law-policy-2017/#7681e3cc683c) in the Law and Policy category, and the Times of London called him [one of the 15 smartest kids on the planet](https://twitter.com/jbrowder1/status/673210491766857729). 
+We talked with [Joshua Browder](https://twitter.com/jbrowder1), the inventor of [DoNotPay](http://www.donotpay.co.uk/signup.php), an AI laywer that's helped people get out of $5 million worth of wrongly-issued parking tickets. Josh has also applied his natural language technology to [helping UK citizens in need of housing](http://www.businessinsider.com/chatbot-helps-homeless-josh-browder-2016-8?r=UK&IR=T) apply for help from the UK government, and [developed iPhone apps](https://freedomhouse.org/article/freedom-your-fingertips-freedom-house-releases-iphone-app) for human rights groups like Freedom House. Just recently Josh became the youngest member of the [Forbes 30 Under 30 list](http://www.forbes.com/sites/alexandrawilson1/2017/01/15/30-under-30-europe-law-policy-2017/#7681e3cc683c) in the Law and Policy category, and the Times of London called him [one of the 15 smartest kids on the planet](https://twitter.com/jbrowder1/status/673210491766857729).
 
-[**Download the episode**](https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Josh_Browder.mp3)
+<div id="backtracks-player" data-bt-embed="https://player.backtracks.fm/partiallyderivative/partially-derivative/m/robot-lawyers-by-joshua-browder" data-bt-show-comments="false" data-bt-show-art-cover="true" data-bt-theme="light"></div><script>(function(p,l,a,y,e,r,s){if(p[y]) return;if(p[e]) return p[e]();s=l.createElement(a);l.head.appendChild((s.async=p[y]=true,s.src=r,s))}(window,document,"script","__btL","__btR","https://player.backtracks.fm/embedder.js"))</script>
 
 **Make a Difference**
 We started a community for data people who want to find impactful projects and meet collaborators. Check out [Data for Democracy](https://medium.com/data-for-democracy), and come hang out with us!
 
-**Sponsors!** We'd also of course like to thank this week's sponsors, [Veera](http://getveera.com/) and [Periscope Data](https://www.periscopedata.com/pd). 
+**Sponsors!** We'd also of course like to thank this week's sponsors, [Veera](http://getveera.com/) and [Periscope Data](https://www.periscopedata.com/pd).
 
 [Veera](http://getveera.com/) is a data synthesis platform that makes working with data easier and more fun. Check out Veera, and go be a data superhero!
 

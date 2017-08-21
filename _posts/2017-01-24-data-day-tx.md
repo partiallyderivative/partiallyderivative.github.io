@@ -11,13 +11,13 @@ tags:
 - technology
 - machine learning
 permalink: /podcast/2017/01/24/data-day
-podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Data_Day_Texas.mp3
+podcast_link: https://backtracks.fm/partiallyderivative/pr/7473db8e-844a-11e7-86c7-0e84392478bc/partially_derivative_data_day_texas.mp3?s=1
 podcast_length: 3305000
 itunes_duration: '00:54:13'
 itunes_summary: Overhyped ideas and interviews galore!
 itunes_explicit: 'no'
 itunes_keywords: data,technology,data science,machine learning
-podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Data_Day_Texas.mp3'
+podcast_guid: 'https://backtracks.fm/partiallyderivative/pr/7473db8e-844a-11e7-86c7-0e84392478bc/partially_derivative_data_day_texas.mp3?s=1'
 ---
 
 ![Data Day](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F18885839%2F1820879554%2F1%2Foriginal.jpg?h=150&w=300&rect=0%2C0%2C2160%2C1080&s=6d1d04b250fb15f8507fe179a7558bc2)
@@ -26,7 +26,7 @@ We're doing something a little different this episode. A couple weeks ago we cam
 
 Jonathon was joined by a couple friends of the show, [Ashley McNamara](https://twitter.com/ashleymcnamara), who long-time listeners will remember as a two-time guest host, and [Dave Sullivan](https://www.linkedin.com/in/davesullivan41/), making his on-air debut. As you'll hear throughout the episode, Ashley and Dave are both clearly more intelligent and funnier than Jonathon.
 
-[**Download the episode**](https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Data_Day_Texas.mp3)
+<div id="backtracks-player" data-bt-embed="https://player.backtracks.fm/partiallyderivative/partially-derivative/m/live-at-data-day-just-like-being-there" data-bt-theme="light" data-bt-show-art-cover="true" data-bt-show-comments="false"></div><script>(function(p,l,a,y,e,r,s){if(p[y]) return;if(p[e]) return p[e]();s=l.createElement(a);l.head.appendChild((s.async=p[y]=true,s.src=r,s))}(window,document,"script","__btL","__btR","https://player.backtracks.fm/embedder.js"))</script>
 
 **Here's who we talked to**
 - [Emil Eifrem](https://twitter.com/emileifrem?lang=en), CEO of [Neo4J](https://neo4j.com/)

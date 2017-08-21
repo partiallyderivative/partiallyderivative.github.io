@@ -12,13 +12,13 @@ tags:
 - data
 - technology
 permalink: /podcast/2016/11/22/mona-chalabi
-podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Mona_Chalabi.mp3
+podcast_link: https://backtracks.fm/partiallyderivative/pr/a5562f56-8448-11e7-86c7-0e84392478bc/partially_derivative_mona_chalabi.mp3?s=1
 podcast_length: 2439000
 itunes_duration: '00:40:39'
 itunes_summary: Is polling pointless?
 itunes_explicit: 'no'
 itunes_keywords: data,polling,politics,data science,science,technology
-podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Mona_Chalabi.mp3'
+podcast_guid: 'https://backtracks.fm/partiallyderivative/pr/a5562f56-8448-11e7-86c7-0e84392478bc/partially_derivative_mona_chalabi.mp3?s=1'
 ---
 
 ![Mona Chalabi](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/contributor/2016/2/12/1455296893400/Mona-Chalabi-L.png?w=500&q=55&auto=format&usm=12&fit=max&s=7470b30e6b8eb0fc8e169970b86e3b20)
@@ -31,4 +31,4 @@ Huge thanks to this week's sponsor, [Veera](http://getveera.com/), a data synthe
 
 ![Veera](http://getveera.com/wp-content/uploads/2016/08/veera-500width.png)
 
-[**Download Episode**](https://s3-us-west-2.amazonaws.com/partially-derivative/Partially_Derivative_Mona_Chalabi.mp3)
+<div id="backtracks-player" data-bt-embed="https://player.backtracks.fm/partiallyderivative/partially-derivative/m/mona-chalabi-data-editor-for-the-guardian" data-bt-theme="light" data-bt-show-art-cover="true" data-bt-show-comments="false"></div><script>(function(p,l,a,y,e,r,s){if(p[y]) return;if(p[e]) return p[e]();s=l.createElement(a);l.head.appendChild((s.async=p[y]=true,s.src=r,s))}(window,document,"script","__btL","__btR","https://player.backtracks.fm/embedder.js"))</script>

@@ -11,13 +11,13 @@ tags:
 - technology
 - machine learning
 permalink: /podcast/2017/03/28/learning-machine-learning
-podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_learning_machine_learning.mp3
+podcast_link: https://backtracks.fm/partiallyderivative/pr/30c44a06-844d-11e7-86c7-0e84392478bc/partially_derivative_learning_machine_learning.mp3?s=1
 podcast_length: 1800000
 itunes_duration: '00:29:30'
 itunes_summary: An opinionated guide to learning machine learning, data science, and artificial intelligence.
 itunes_explicit: 'yes'
 itunes_keywords: data,technology,data science,machine learning
-podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_learning_machine_learning.mp3'
+podcast_guid: 'https://backtracks.fm/partiallyderivative/pr/30c44a06-844d-11e7-86c7-0e84392478bc/partially_derivative_learning_machine_learning.mp3?s=1'
 ---
 
 This week Jonathon and Vidya are out of town, so Chris takes the helm and gives his opinionated guide to learning machine learning, data science, and artificial intelligence. Resources mentioned this episode:
@@ -44,7 +44,7 @@ This week Jonathon and Vidya are out of town, so Chris takes the helm and gives 
 - [Bay Area Deep Learning School](https://www.youtube.com/watch?v=eyovmAtoUx0)
 - [Andrew Ng's Machine Learning Coursera Course](https://www.coursera.org/learn/machine-learning)
 
-[**Download the episode**](https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_learning_machine_learning.mp3)
+<div id="backtracks-player" data-bt-embed="https://player.backtracks.fm/partiallyderivative/partially-derivative/m/learning-machine-learning" data-bt-show-comments="false" data-bt-theme="light" data-bt-show-art-cover="true"></div><script>(function(p,l,a,y,e,r,s){if(p[y]) return;if(p[e]) return p[e]();s=l.createElement(a);l.head.appendChild((s.async=p[y]=true,s.src=r,s))}(window,document,"script","__btL","__btR","https://player.backtracks.fm/embedder.js"))</script>
 
 **Make a Difference**
 We started a community for data people who want to find impactful projects and meet collaborators. Check out [Data for Democracy](https://medium.com/data-for-democracy), and come hang out with us!

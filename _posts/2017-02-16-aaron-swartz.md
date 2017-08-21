@@ -11,18 +11,18 @@ tags:
 - technology
 - machine learning
 permalink: /podcast/2017/02/16/aaron-swartz
-podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_aaron_swartz.mp3
+podcast_link: https://backtracks.fm/partiallyderivative/pr/ca8741cc-844b-11e7-86c7-0e84392478bc/partially_derivative_aaron_swartz.mp3?s=1
 podcast_length: 720000
 itunes_duration: '00:11:03'
 itunes_summary: The tragic story of Aaron Swartz and the CFAA.
 itunes_explicit: 'no'
 itunes_keywords: data,technology,data science,machine learning
-podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_aaron_swartz.mp3'
+podcast_guid: 'https://backtracks.fm/partiallyderivative/pr/ca8741cc-844b-11e7-86c7-0e84392478bc/partially_derivative_aaron_swartz.mp3?s=1'
 ---
 
 As a chance of pace, we take a moment to talk about the tragedy of Aaron Swartz and the broad powers of the Computer Fraud and Abuse Act.
 
-[**Download the episode**](https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_aaron_swartz.mp3)
+<div id="backtracks-player" data-bt-embed="https://player.backtracks.fm/partiallyderivative/partially-derivative/m/aaron-swartz-and-the-cfaa" data-bt-show-comments="false" data-bt-theme="light" data-bt-show-art-cover="true"></div><script>(function(p,l,a,y,e,r,s){if(p[y]) return;if(p[e]) return p[e]();s=l.createElement(a);l.head.appendChild((s.async=p[y]=true,s.src=r,s))}(window,document,"script","__btL","__btR","https://player.backtracks.fm/embedder.js"))</script>
 
 Sources used in this episode:
 

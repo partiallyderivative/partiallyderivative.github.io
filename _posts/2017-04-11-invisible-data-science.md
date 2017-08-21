@@ -11,13 +11,13 @@ tags:
 - technology
 - machine learning
 permalink: /podcast/2017/04/11/invisible-data-science
-podcast_link: https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_invisible_data_science.mp3
+podcast_link: https://backtracks.fm/partiallyderivative/pr/e6040302-844d-11e7-86c7-0e84392478bc/partially_derivative_invisible_data_science.mp3?s=1
 podcast_length: 2340000
 itunes_duration: '00:38:29'
 itunes_summary: This week Vidya and Chris are back to talk about food, magazines, and why notifications are evil.
 itunes_explicit: 'yes'
 itunes_keywords: data,technology,data science,machine learning
-podcast_guid: 'https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_invisible_data_science.mp3'
+podcast_guid: 'https://backtracks.fm/partiallyderivative/pr/e6040302-844d-11e7-86c7-0e84392478bc/partially_derivative_invisible_data_science.mp3?s=1'
 ---
 
 This week Vidya and Chris are back to talk about food, magazines, and why notifications are evil.
@@ -26,7 +26,7 @@ Story 1: [Computer generated recipes](https://www.theguardian.com/books/2015/jan
 
 Story 2: [Distill](http://distill.pub/)
 
-[**Download the episode**](https://s3-us-west-2.amazonaws.com/partially-derivative/partially_derivative_invisible_data_science.mp3)
+<div id="backtracks-player" data-bt-embed="https://player.backtracks.fm/partiallyderivative/partially-derivative/m/invisible-data-science" data-bt-show-art-cover="true" data-bt-theme="light" data-bt-show-comments="false"></div><script>(function(p,l,a,y,e,r,s){if(p[y]) return;if(p[e]) return p[e]();s=l.createElement(a);l.head.appendChild((s.async=p[y]=true,s.src=r,s))}(window,document,"script","__btL","__btR","https://player.backtracks.fm/embedder.js"))</script>
 
 **Make a Difference**
 We started a community for data people who want to find impactful projects and meet collaborators. Check out [Data for Democracy](https://medium.com/data-for-democracy), and come hang out with us!
